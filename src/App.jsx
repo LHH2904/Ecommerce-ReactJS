@@ -7,7 +7,7 @@ function App() {
     <>
         <Hello name='Hieu HL' content='XIN CHAO'/>
         <Hello content='TT'/>
-        <div>Ecommerce</div>
+        <div>Ecommerce TS</div>
     </>
   )
 }

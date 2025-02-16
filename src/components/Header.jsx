@@ -1,8 +1,5 @@
 function MyHeader() {
-
-    return (
-        <div>Header from component</div>
-    )
+    return <div>Header from component</div>;
 }
 
 export default MyHeader;
